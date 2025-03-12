@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XutBeTi. My real name is Tran Xuan Hoan (first name is Hoan)
-- 🌱 I’m currently learning Control and Automation Engineering at Posts and Communications Institute of Technology (PTIT)
+- 🌱 I’m currently learning Control and Automation Engineering at Posts and Telecommunications Institute of Technology (PTIT)
 
 <!---
 XutBeTi/XutBeTi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
