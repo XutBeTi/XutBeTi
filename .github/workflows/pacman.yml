@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  generate:
+	generate:
 	permissions:
 		contents: write
 	runs-on: ubuntu-latest
