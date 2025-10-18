@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20Welcome%20to%20my%20profile%20!!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=000000&strokeWidth=1&desc=Let's%20take%20a%20quick%20look&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20Welcome%20to%20my%20profile%20!!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=000000&strokeWidth=0&desc=Let's%20take%20a%20quick%20look&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
   <img src="https://img.shields.io/github/followers/XutBeTi?label=Follow&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/XutBeTiXutBeTi?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/XutBeTi?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
 ###
@@ -113,28 +113,7 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Oh,%20this%20is%20the%20end%20of%20my%20profile&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=000000&strokeWidth=1&animation=fadeIn&desc=Wanna%20see%20my%20repositories%20?&descSize=20&descAlign=50&descAlignY=84&color=gradient"  />
+<div align="center" style="width: 100%"0&animation=fadeIn&desc=Wanna%20see%20my%20repositories%20?&descSize=20&descAlign=50&descAlignY=84&color=gradient"  />
 </div>
 
 ###
