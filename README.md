@@ -6,19 +6,13 @@
 
 <h2 align="center">How can you call me ?</h2>
 
-###
-
 <p align="center">Trần Xuân Hoàn / XutBeTi / Xutt  / HoanTi , you can call me whatever you like</p>
-
-###
 
 <p align="center">updating</p>
 
 ###
 
 <h2 align="center">Summarize my GitHub</h2>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
@@ -29,8 +23,6 @@
 ###
 
 <h2 align="center">You can find me on</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -57,8 +49,6 @@
 
 <p align="center">What I'd already known</p>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
@@ -72,8 +62,6 @@
 ###
 
 <p align="center">I'm also learning</p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
@@ -90,6 +78,8 @@
 </div>
 
 ###
+
+<h2 align="center">My stats</h2>
 
 <div align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
   <img src="https://streak-stats.demolab.com?user=XutBeTi&theme=dracula" height="150" />
