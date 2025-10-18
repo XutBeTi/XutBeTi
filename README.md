@@ -78,11 +78,15 @@
 <p align="center">What I'd already known</p>
 
   <div align="center">
-    <div align="center">
-    <img src="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/assets/c-hex.svg" height="60" alt="C logo" />
+    <!-- Logo C -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" alt="C logo" 
+         style="mask: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg') no-repeat center; -webkit-mask: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg') no-repeat center; background: linear-gradient(180deg, #00599C 0%, #004482 100%); color: white;">
     <img width="12" />
-    <img src="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/assets/cplusplus-hex.svg" height="60" alt="C++ logo" />
+  
+    <!-- Logo C++ -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" />
   </div>
+
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
