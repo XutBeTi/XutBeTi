@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">Summarize my GitHub</h2>
+<h2 align="center">Summarize my GitHub </h2>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<p align="center">What I'd already known</p>
+<p align="center">What I've already known</p>
 
 ###
 <div align="center">
