@@ -1,10 +1,10 @@
 name: generate pacman game
 
 on:
-  schedule: # run automatically every 24 hours
-    - cron: "0 */24 * * *"
-  workflow_dispatch: # allows to manually run the job at any time
-  push: # run on every push on the master branch
+  schedule:
+    - cron: "0 0 * * *"  # chạy mỗi ngày 1 lần
+  workflow_dispatch:      # cho phép chạy thủ công
+  push:
     branches:
       - main
 
@@ -16,14 +16,24 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate pacman-contribution-graph.svg with ghosts
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # ✅ Các tùy chỉnh thêm:
+          pacman_color: "#FFEB3B"       # màu vàng Pac-Man
+          background_color: "#0D1117"   # nền tối
+          dots_color: "#FFFFFF"         # chấm trắng
+          ghosts: "true"                # bật các con ma
+          ghost_colors: "red,cyan,pink,orange"  # màu 4 con ma
+          speed: "2"                    # tốc độ ăn chấm (1 chậm – 5 nhanh)
+          grid_color: "#2f363d"         # màu khung nền
+          show_grid: "false"            # tắt lưới nếu muốn mịn hơn
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
