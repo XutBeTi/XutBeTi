@@ -2,17 +2,18 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20Welcome%20to%20my%20profile%20!!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&strokeWidth=0&desc=Let's%20take%20a%20quick%20look&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
-###
 
-<h2 align="center">How can you call me ?</h2>
+
+###<h2 align="center">How can you call me ?</h2>
+
+
 
 <p align="center">Trần Xuân Hoàn / XutBeTi / Xutt  / HoanTi , you can call me whatever you like</p>
 
 <p align="center">updating</p>
 
-###
 
-<h2 align="center">Summarize my GitHub</h2>
+###<h2 align="center">Summarize my GitHub</h2>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
