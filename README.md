@@ -4,16 +4,22 @@
 
 
 
-###<h2 align="center">How can you call me ?</h2>
+###
 
+<h2 align="center">How can you call me ?</h2>
 
+###
 
 <p align="center">Trần Xuân Hoàn / XutBeTi / Xutt  / HoanTi , you can call me whatever you like</p>
 
 <p align="center">updating</p>
 
 
-###<h2 align="center">Summarize my GitHub</h2>
+###
+
+<h2 align="center">Summarize my GitHub</h2>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
@@ -24,6 +30,8 @@
 ###
 
 <h2 align="center">You can find me on</h2>
+
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -82,6 +90,8 @@
 
 <h2 align="center">My stats</h2>
 
+###
+
 <div align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
   <img src="https://streak-stats.demolab.com?user=XutBeTi&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=XutBeTi&theme=dracula" height="150" />
@@ -99,7 +109,8 @@
 </picture>
 
 ###
-
+<!---LINK--->
+<!--
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
@@ -111,15 +122,16 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
+-->
 
 ###
-
+<!---PICTURE--->
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
-
+<!---FOOTER--->
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Oh,%20this%20is%20the%20end%20of%20my%20profile&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&strokeWidth=0&animation=fadeIn&desc=Wanna%20see%20my%20repositories%20?&descSize=20&descAlign=50&descAlignY=84&color=gradient"  />
 </div>
