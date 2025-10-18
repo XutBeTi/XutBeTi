@@ -93,11 +93,11 @@
 ###
 
 <div align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
-  <img src="https://streak-stats.demolab.com?user=XutBeTi&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=XutBeTi&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XutBeTi&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=XutBeTi&theme=dracula" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XutBeTi&theme=dracula" height="300" />
+  <img src="https://streak-stats.demolab.com?user=XutBeTi&theme=dracula" height="150" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=XutBeTi&theme=dracula" height="150" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XutBeTi&theme=dracula" height="150" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=XutBeTi&theme=dracula" height="150" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XutBeTi&theme=dracula" height="300" /> <br>
 </div>
 
 ###
