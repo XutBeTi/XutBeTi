@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20Welcome%20to%20my%20profile%20!!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=000000&strokeWidth=1&desc=Let's%20take%20a%20quick%20look&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
@@ -22,6 +22,8 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
+  <img src="https://img.shields.io/github/followers/zennomi?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/zennomi?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
 ###
