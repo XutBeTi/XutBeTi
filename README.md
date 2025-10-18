@@ -27,8 +27,9 @@
   <img src="https://img.shields.io/github/stars/XutBeTi?label=Stars&style=social" alt="GitHub stars" />
   
   <a href="https://github.com/XutBeTi?tab=following" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Following&logo=github&style=social" alt="GitHub Following" />
+    <img src="https://img.shields.io/static/v1?label=&message=Following&logo=github&style=social" alt="GitHub Following" />
   </a>
+
 
 </div>
 
