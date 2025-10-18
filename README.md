@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey!%20Welcome%20to%20my%20profile%20!!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&strokeWidth=0&desc=Let's%20take%20a%20quick%20look&descSize=20&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
@@ -133,7 +133,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Oh,%20this%20is%20the%20end%20of%20my%20profile&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&strokeWidth=0&animation=fadeIn&desc=Wanna%20see%20my%20repositories%20?&descSize=20&descAlign=50&descAlignY=84&color=gradient"  />
 </div>
 
