@@ -23,6 +23,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
+  <img src="https://img.shields.io/github/following/XutBeTi?label=Following&style=social" alt="GitHub following" />
   <img src="https://img.shields.io/github/followers/XutBeTi?label=Follow&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/XutBeTi?label=Stars&style=social" alt="GitHub stars" />
 </div>
