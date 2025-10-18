@@ -139,9 +139,11 @@
 
 ###
 <!---PICTURE--->
+<h2 align="center">Otherwise, I have a strong passion for games, anime and manga </h2>
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlmdWs3bzg4cmFtZ3VkMWRuYjBxcXduYzlheTk1enVpc2d2czU2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif"  />
+  <img height="200" src="https://i.giphy.com/media/Q0VvDkS4j4Ia2RjAOS/giphy.gif" />
 </div>
+
 
 ###
 <!---FOOTER--->
