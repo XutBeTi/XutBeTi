@@ -23,12 +23,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XutBeTi.XutBeTi&"  />
+  <img src="https://img.shields.io/github/followers/XutBeTi?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/XutBeTi?label=Stars&style=social" alt="GitHub stars" />
+  
   <a href="https://github.com/XutBeTi?tab=following" target="_blank">
      <img src="https://img.shields.io/badge/Following-blue?logo=github&style=social" alt="GitHub following" />
   </a>
-
-  <img src="https://img.shields.io/github/followers/XutBeTi?label=Follow&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/XutBeTi?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
 ###
