@@ -14,6 +14,13 @@
 
 <p align="center">updating</p>
 
+###
+
+<h2 align="center">Who am I ?</h2>
+
+###
+
+<p align="center">I'm just a second-year student  majoring in automation at PTIT </p>
 
 ###
 
