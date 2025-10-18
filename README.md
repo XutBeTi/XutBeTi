@@ -53,7 +53,7 @@
   <a href="https://www.hackerrank.com/profile/traan_hoan_vn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/my_qr" target="_blank">
+  <a href="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/my_qr.jpg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WeChat logo" />
   </a>
 
