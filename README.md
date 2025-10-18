@@ -149,8 +149,11 @@
 ###
 <!---PICTURE--->
 <h2 align="center">Otherwise, I have a strong passion for games, anime and manga </h2>
+
+###
+
 <div align="center">
-   <iframe src="https://i.giphy.com/media/Q0VvDkS4j4Ia2RjAOS/giphy.gif" width="200" height="200" style="pointer-events: none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+   <img src="https://i.giphy.com/media/Q0VvDkS4j4Ia2RjAOS/giphy.gif" />
 </div>
 
 
