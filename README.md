@@ -96,11 +96,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=XutBeTi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=XutBeTi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XutBeTi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=XutBeTi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XutBeTi&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=XutBeTi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api?username=XutBeTi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XutBeTi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />  
+  <img src="https://github-profile-trophy.vercel.app?username=XutBeTi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XutBeTi&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />  
 </div>
 
 ###
@@ -133,7 +133,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Oh,%20this%20is%20the%20end%20of%20my%20profile&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=000000&strokeWidth=1&animation=fadeIn&desc=Wanna%20see%20my%20repositories%20?&descSize=20&descAlign=50&descAlignY=84&color=gradient"  />
 </div>
 
