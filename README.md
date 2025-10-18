@@ -77,10 +77,13 @@
 
 <p align="center">What I'd already known</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="60" alt="c logo" />
+  <div align="center">
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/assets/c-hex.svg" height="60" alt="C logo" />
+    <img width="12" />
+    <img src="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/assets/cplusplus-hex.svg" height="60" alt="C++ logo" />
+  </div>
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img width="12" />
