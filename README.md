@@ -57,7 +57,7 @@
   <a href="https://discord.com/users/759375626007347220" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/traan_hoan_vn" target="_blank">
+  <a href="https://www.hackerrank.com/traan_hoan_vn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="https://raw.githubusercontent.com/XutBeTi/XutBeTi/main/my_qr.jpg" target="_blank">
