@@ -12,7 +12,6 @@
 
 <p align="center">Trần Xuân Hoàn / XutBeTi / Xutt  / HoanTi , you can call me whatever you like</p>
 
-<p align="center">updating</p>
 
 ###
 
@@ -84,8 +83,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="60" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo"  />
   <img width="12" />
 </div>
 
